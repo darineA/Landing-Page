@@ -11,7 +11,7 @@ To get started, open js/app.js and start building out the app's functionality
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
 
-##Progect Notes:
+## Progect Notes:
 
 1/ Define Global Variables(allSections/listOfMenu)
 2/ build the nav by function buildList()
