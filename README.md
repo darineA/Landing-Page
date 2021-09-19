@@ -13,12 +13,15 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 ## Progect Notes:
 
-1/ Define Global Variables(allSections/listOfMenu)
-2/ build the nav by function buildList()
+1/ Define Global Variables(allSections/listOfMenu).
+
+2/ build the nav by function buildList().
+
 3/ Add class 'active' to section when near top of viewport by:
-  a) getBoundingClientRect()method
-  b) function addActive()
+  a) getBoundingClientRect()method.
+  b) function addActive().
+  
 4/ create the scroll to top button:
-  a)create the scroll to top button
-  b)styling button
-  c)scroll to top function
+  a)create the scroll to top button.
+  b)styling button.
+  c)scroll to top function.
